@@ -3,6 +3,6 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 data/
+.env
 config/*.secret.conf
 odoo-community/.python-version
-
