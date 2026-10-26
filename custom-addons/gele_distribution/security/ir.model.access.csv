@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_gele_distributor_user,gele.distributor.user,model_gele_distributor,base.group_user,1,1,1,0
+access_gele_distributor_order_user,gele.distributor.order.user,model_gele_distributor_order,base.group_user,1,1,1,0
+access_gele_distributor_order_line_user,gele.distributor.order.line.user,model_gele_distributor_order_line,base.group_user,1,1,1,0
+
