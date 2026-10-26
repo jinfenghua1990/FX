@@ -8,6 +8,13 @@ Odoo Community 19.0 本地基础工程，面向内部经销商订货、运营审
 - PostgreSQL 16 数据库服务
 - 格力高分销商与分销订单基础模块
 - 后续可扩展旺店通 `trade_push.php` 对接
+- 面向其他 AI/开发机器人的项目上下文和协作规则
+
+## 先读项目文档
+
+- [AGENTS.md](AGENTS.md)：机器人协作规则
+- [docs/PROJECT_CONTEXT.md](docs/PROJECT_CONTEXT.md)：项目背景、已确定决策、旺店通流程和当前状态
+- [docs/IMPLEMENTATION_PLAN.md](docs/IMPLEMENTATION_PLAN.md)：P0/P1/P2 实施计划
 
 ## 启动
 
